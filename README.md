@@ -28,7 +28,7 @@ I'm a passionate data science enthusiast with a background in engineering and pr
 
 - ## 🚀 Project Management
 
-![Project Management](https://img.shields.io/badge/-Project%20Management-blueviolet) ![PMP Certified](https://img.shields.io/badge/-PMP%20Certified-red) ![Agile Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-brightgreen)
+![Project Management](https://img.shields.io/badge/-Project%20Management-blueviolet) ![PMP Certified](https://img.shields.io/badge/-PMP%20Certified-red) ![Agile Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-brightgreen) ![AIMS Grid](https://img.shields.io/badge/AIMS%20Grid-Active-green) ![Kanban](https://img.shields.io/badge/Kanban-In%20Progress-yellow)
 
 
 ## 🚀 My Projects
