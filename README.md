@@ -8,7 +8,7 @@ I'm a passionate data science enthusiast with a background in engineering and pr
 - Building data pipelines and conducting exploratory data analysis (EDA) on diverse datasets.
 - Expanding my knowledge in natural language processing (NLP) and deep learning.
 
-## 🌱 My Skills
+## ⚡ My Skills
 
 - ## 📊 Data Science
 
