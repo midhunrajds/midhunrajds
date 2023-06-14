@@ -35,7 +35,7 @@ I'm a passionate data science enthusiast with a background in engineering and pr
 
 Here are a few noteworthy projects I've worked on:
 
-- [UAE Residential Properties Analsysis](https://github.com/midhunrajds/Real-Estate-Insights): Python | Tableau | Webscraping | Geocoding | Data Acquisition | Data Cleaning & Transformation | Data Analysis | Data Visualization | Data Science | Communication
+- [UAE Residential Properties Analysis](https://github.com/midhunrajds/Real-Estate-Insights): Python | Tableau | Webscraping | Geocoding | Data Acquisition | Data Cleaning & Transformation | Data Analysis | Data Visualization | Data Science | Communication
     - Provided insights into the residential property market through the analysis of rental and sale property data. Collected data by leveraging web scraping techniques, to provide valuable information to individuals seeking to make informed decisions regarding property investment or rental choices. The project utilized visualization tool - Tableau, to present the findings in an interactive and informative manner.
    
 - [Predict Online Shoppers Intention](https://github.com/midhunrajds/Python-Data-Science-Project-Online-Shoppers-intention): Python | Correlation | Clustering | Modelling | ML | Data Acquisition | Data Cleaning & Transformation | Data Analysis | Data Visualization | Data Science | Communication
