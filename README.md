@@ -36,7 +36,7 @@ I'm a passionate data science enthusiast with a background in engineering and pr
 
 Here are a few noteworthy projects I've worked on:
 
-- [Uber Data Analytics Project: Unveiling Insights and Trends in NYC Taxi Trips Using Python, GCP, and Tableau](https://github.com/midhunrajds/Taxi-trips-ETL-Project) : Python | SQL | GCP | ETL | VM | BigQuery | Lucid | Mage | Tableau | Data Acquisition | Data Cleaning & Transformation | Data Model | Data Engineering | Data Analysis | Data Visualization | Data Science | Communication
+- [Unveiling Insights and Trends in NYC Taxi Trips Using Python, GCP, and Tableau](https://github.com/midhunrajds/Taxi-trips-ETL-Project) : Python | SQL | GCP | ETL | VM | BigQuery | Lucid | Mage | Tableau | Data Acquisition | Data Cleaning & Transformation | Data Model | Data Engineering | Data Analysis | Data Visualization | Data Science | Communication
 - In this project, I utilized Python, Google Cloud Platform (GCP), and Tableau to conduct a comprehensive analysis of NYC taxi trips. By leveraging ETL techniques, including data ingestion, transformation, and loading, I extracted valuable insights from the TLC Trip Record Data. Using Lucid Chart, I created a data model to visualize the relationships between entities. With GCP Storage and Compute Instances, I established a robust infrastructure for efficient data processing. The Mage Data Pipeline Tool played a crucial role in orchestrating the data pipeline and loading the transformed data into BigQuery. Finally, I harnessed Tableau's powerful visualization capabilities to create interactive reports and gain actionable insights from the data.
 
 Take a ride through the world of NYC taxi data and discover hidden patterns with my Uber Data Analytics Project.
