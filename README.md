@@ -20,11 +20,12 @@ I'm a passionate data science enthusiast with a background in engineering and pr
 
 - ## 📊 Data Visualization
 
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-blueviolet) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue) ![Seaborn](https://img.shields.io/badge/-Seaborn-orange) ![Tableau](https://img.shields.io/badge/-Tableau-brightgreen)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-blueviolet) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue) ![Seaborn](https://img.shields.io/badge/-Seaborn-orange) ![Tableau](https://img.shields.io/badge/-Tableau-brightgreen) ![Lucid Chart](https://img.shields.io/badge/Lucid%20Chart-Diagramming%20Tool-lightgrey.svg)
+
 
 - ## 🌐 Big Data Tools
 
-![Big Data Tools](https://img.shields.io/badge/-Big%20Data%20Tools-blueviolet) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-yellow) ![Hadoop](https://img.shields.io/badge/-Hadoop-orange)
+![Big Data Tools](https://img.shields.io/badge/-Big%20Data%20Tools-blueviolet) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-yellow) ![Hadoop](https://img.shields.io/badge/-Hadoop-orange) ![Mage.ai](https://img.shields.io/badge/Mage.ai-Data%20Pipeline%20Tool-green.svg) ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-GCP-blue.svg) ![VM Machines](https://img.shields.io/badge/VM%20Machines-GCP%20Compute%20Engine-yellow.svg)  ![SSH](https://img.shields.io/badge/SSH-Remote%20Access-red.svg)  ![BigQuery](https://img.shields.io/badge/BigQuery-Google%20Cloud%20BigQuery-orange.svg) ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-GCS-blue.svg)  
 
 - ## 🚀 Project Management
 
@@ -34,6 +35,11 @@ I'm a passionate data science enthusiast with a background in engineering and pr
 ## 🚀 My Projects
 
 Here are a few noteworthy projects I've worked on:
+
+- [Uber Data Analytics Project: Unveiling Insights and Trends in NYC Taxi Trips Using Python, GCP, and Tableau](https://github.com/midhunrajds/Taxi-trips-ETL-Project) : Python | SQL | GCP | ETL | VM | BigQuery | Lucid | Mage | Tableau | Data Acquisition | Data Cleaning & Transformation | Data Model | Data Engineering | Data Analysis | Data Visualization | Data Science | Communication
+- In this project, I utilized Python, Google Cloud Platform (GCP), and Tableau to conduct a comprehensive analysis of NYC taxi trips. By leveraging ETL techniques, including data ingestion, transformation, and loading, I extracted valuable insights from the TLC Trip Record Data. Using Lucid Chart, I created a data model to visualize the relationships between entities. With GCP Storage and Compute Instances, I established a robust infrastructure for efficient data processing. The Mage Data Pipeline Tool played a crucial role in orchestrating the data pipeline and loading the transformed data into BigQuery. Finally, I harnessed Tableau's powerful visualization capabilities to create interactive reports and gain actionable insights from the data.
+
+Take a ride through the world of NYC taxi data and discover hidden patterns with my Uber Data Analytics Project.
 
 - [UAE Residential Properties Analysis](https://github.com/midhunrajds/Real-Estate-Insights): Python | Tableau | Webscraping | Geocoding | Data Acquisition | Data Cleaning & Transformation | Data Analysis | Data Visualization | Data Science | Communication
     - Provided insights into the residential property market through the analysis of rental and sale property data. Collected data by leveraging web scraping techniques, to provide valuable information to individuals seeking to make informed decisions regarding property investment or rental choices. The project utilized visualization tool - Tableau, to present the findings in an interactive and informative manner.
