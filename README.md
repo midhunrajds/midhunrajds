@@ -17,15 +17,30 @@ I'm a passionate data science enthusiast with a background in engineering and pr
 - ## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-yellow?logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-red?logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-red?logo=keras) ![R](https://img.shields.io/badge/-R-blue?logo=r) ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=sql) ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-green?logo=microsoft-excel) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?logo=jupyter)
+[![PySpark](https://img.shields.io/badge/PySpark-yellow?logo=apache-spark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
 
 - ## 📊 Data Visualization
 
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-blueviolet) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue) ![Seaborn](https://img.shields.io/badge/-Seaborn-orange) ![Tableau](https://img.shields.io/badge/-Tableau-brightgreen) ![Lucid Chart](https://img.shields.io/badge/Lucid%20Chart-Diagramming%20Tool-lightgrey.svg)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-blueviolet) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue) ![Seaborn](https://img.shields.io/badge/-Seaborn-orange) ![Tableau](https://img.shields.io/badge/-Tableau-brightgreen) ![Lucid Chart](https://img.shields.io/badge/Lucid%20Chart-Diagramming%20Tool-lightgrey.svg) [![Amazon QuickSight](https://img.shields.io/badge/Amazon-QuickSight-yellow?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/quicksight/)
 
+- ## :toolbox: Data Engineering
+[![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-orange?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
+[![AWS S3](https://img.shields.io/badge/AWS-S3-blue?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/s3/)
+[![AWS Glue Studio](https://img.shields.io/badge/AWS-Glue_Studio-lightgrey?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/glue/)
+[![AWS CLI](https://img.shields.io/badge/AWS-CLI-black?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cli/)
+[![AWS Glue DataBrew](https://img.shields.io/badge/AWS-Glue_DataBrew-lightgrey?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/glue/data-brew/)
+[![AWS Glue DynamicFrame](https://img.shields.io/badge/AWS-Glue_DynamicFrame-lightgrey?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/glue/) ![Mage.ai](https://img.shields.io/badge/Mage.ai-Data%20Pipeline%20Tool-green.svg) ![VM Machines](https://img.shields.io/badge/VM%20Machines-GCP%20Compute%20Engine-yellow.svg) ![SSH](https://img.shields.io/badge/SSH-Remote%20Access-red.svg) 
 
 - ## 🌐 Big Data Tools
 
-![Big Data Tools](https://img.shields.io/badge/-Big%20Data%20Tools-blueviolet) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-yellow) ![Hadoop](https://img.shields.io/badge/-Hadoop-orange) ![Mage.ai](https://img.shields.io/badge/Mage.ai-Data%20Pipeline%20Tool-green.svg) ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-GCP-blue.svg) ![VM Machines](https://img.shields.io/badge/VM%20Machines-GCP%20Compute%20Engine-yellow.svg)  ![SSH](https://img.shields.io/badge/SSH-Remote%20Access-red.svg)  ![BigQuery](https://img.shields.io/badge/BigQuery-Google%20Cloud%20BigQuery-orange.svg) ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-GCS-blue.svg)  
+![Big Data Tools](https://img.shields.io/badge/-Big%20Data%20Tools-blueviolet) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-yellow) ![Hadoop](https://img.shields.io/badge/-Hadoop-orange)  ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-GCP-blue.svg) ![BigQuery](https://img.shields.io/badge/BigQuery-Google%20Cloud%20BigQuery-orange.svg) ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-GCS-blue.svg) 
+[![AWS Glue](https://img.shields.io/badge/AWS-Glue-lightgrey?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/glue/)
+[![Amazon Athena](https://img.shields.io/badge/Amazon-Athena-lightblue?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/athena/)
+
+
+## Table of Contents
+...
+
 
 - ## 🚀 Project Management
 
