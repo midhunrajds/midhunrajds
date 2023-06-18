@@ -37,11 +37,6 @@ I'm a passionate data science enthusiast with a background in engineering and pr
 [![AWS Glue](https://img.shields.io/badge/AWS-Glue-lightgrey?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/glue/)
 [![Amazon Athena](https://img.shields.io/badge/Amazon-Athena-lightblue?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/athena/)
 
-
-## Table of Contents
-...
-
-
 - ## 🚀 Project Management
 
 ![Project Management](https://img.shields.io/badge/-Project%20Management-blueviolet) ![PMP Certified](https://img.shields.io/badge/-PMP%20Certified-red) ![Agile Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-brightgreen) ![AIMS Grid](https://img.shields.io/badge/AIMS%20Grid-Active-green) ![Kanban](https://img.shields.io/badge/Kanban-In%20Progress-yellow)
